@@ -1,4 +1,4 @@
-# ebay-car-data
+# Exploring Used Car Listings
 The purpose of this project is to explore data using Numpy and Pandas. 
 
 ## The reason
